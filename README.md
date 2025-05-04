@@ -2,8 +2,10 @@
 
 ![ShopEase Logo](assets/logo.png)
 
-ShopEase is a modern, responsive e-commerce website built with HTML5, CSS3, and JavaScript. It provides a seamless shopping experience with a clean, user-friendly interface and robust functionality.
+> 🚀 **Live Website**: [https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-scylla8434/](https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-scylla8434/)
 
+ShopEase is a modern, responsive e-commerce website built with HTML5, CSS3, and JavaScript. It provides a seamless shopping experience with a clean, user-friendly interface and robust functionality.
+               
 ## 🌟 Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
@@ -89,15 +91,12 @@ ShopEase is a modern, responsive e-commerce website built with HTML5, CSS3, and 
 
 ## 🚀 Deployment
 
-### GitHub Pages
-1. Create a new repository on GitHub
-2. Push your code to the repository
-3. Go to repository settings
-4. Navigate to Pages section
-5. Select main branch as source
-6. Save changes
+The website is currently deployed on GitHub Pages at:
+[https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-scylla8434/](https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-scylla8434/)
 
-### Netlify
+### Alternative Deployment Options
+
+#### Netlify
 1. Create a Netlify account
 2. Connect your GitHub repository
 3. Configure build settings:
@@ -105,7 +104,7 @@ ShopEase is a modern, responsive e-commerce website built with HTML5, CSS3, and 
    - Publish directory: `/` (root directory)
 4. Deploy site
 
-### Vercel
+#### Vercel
 1. Create a Vercel account
 2. Import your GitHub repository
 3. Configure project settings
@@ -142,7 +141,7 @@ ShopEase is a modern, responsive e-commerce website built with HTML5, CSS3, and 
 ## 📁 Project Structure
 
 ```
-shopease/
+feb-2025-final-project-and-deployment-scylla8434/
 ├── assets/
 │   ├── logo.png
 │   ├── product1.jpg
@@ -193,15 +192,15 @@ The website uses CSS variables for easy color customization. Edit the following 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 ## 📞 Contact
 
 - **Email**: teddyanangwe@gmail.com
 - **Phone**: +254 700 123 456
 - **Address**: Westlands, Nairobi, Kenya
-- **Website**: [www.shopease.co.ke](https://www.shopease.co.ke)
+- **Website**: [https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-scylla8434/](https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-scylla8434/)
 
 ## 🙏 Acknowledgments
 
 - Font Awesome for icons
 - Google Maps for location integration
+- PLP Web Technologies for the project opportunity
